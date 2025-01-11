@@ -36,6 +36,7 @@ Sou uma pessoa fissurada por **inovação e empreendedorismo!** Nessa área já 
 ## 🌐 Socials 🌐:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amanda_crosa/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandamartinezdarosa) 
 <div>
-
-
+<br>
+<div align="center">
+  <img width=60% src="https://github.com/user-attachments/assets/aff882ad-43f8-4fbe-b510-f7d7dd76015e"/>
 
