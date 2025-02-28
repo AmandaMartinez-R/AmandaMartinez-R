@@ -54,5 +54,16 @@ Sou uma pessoa fissurada por inovação e empreendedorismo. Nessa área já atue
 <br>
 
 <div align="center">
+<img width=50% src="https://github.com/user-attachments/assets/cb345cd4-64c7-4014-ad99-1e1f9a543f01"/>
+	
+  <br>
+  
+![](https://github-readme-stats.vercel.app/api?username=AmandaMartinez-R&theme=white&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AmandaMartinez-R&theme=white&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaMartinez-R&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+ <br><br>
+ 
+<div align="center">
   <img width=60% src="https://github.com/user-attachments/assets/aff882ad-43f8-4fbe-b510-f7d7dd76015e"/>
 
