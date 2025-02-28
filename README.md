@@ -54,7 +54,7 @@ Sou uma pessoa fissurada por inovação e empreendedorismo. Nessa área já atue
 <br>
 
 <div align="center">
-<img width=50% src="https://github.com/user-attachments/assets/cb345cd4-64c7-4014-ad99-1e1f9a543f01"/>
+<img width=40% src="https://github.com/user-attachments/assets/377ec44c-1dac-4c94-9f39-2c996593aa30"/>
 	
   <br>
   
